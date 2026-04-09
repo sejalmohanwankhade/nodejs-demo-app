@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app with CI/CD pipeline using GitHub Actions and Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests defined\" && exit 0"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
